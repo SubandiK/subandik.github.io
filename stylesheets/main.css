@@ -1,5 +1,9 @@
 .main {
   position: relative;
-  top: 50px;
+  top: 20%;
   text-align: center;
+}
+
+h1 {
+  font-size: 100px;
 }
